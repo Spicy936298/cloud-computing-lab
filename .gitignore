@@ -1,0 +1,8 @@
+# 临时/辅助文件
+gen_screenshot.py
+*.pyc
+__pycache__/
+
+# 系统文件
+.DS_Store
+Thumbs.db
